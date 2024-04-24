@@ -1,5 +1,4 @@
 package TinhLuong;
-import util.Configs;
 
 public class NhanVienPartTime extends NhanVien{
     private int giolamviec;
