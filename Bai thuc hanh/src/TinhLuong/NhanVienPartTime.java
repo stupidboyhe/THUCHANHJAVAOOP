@@ -7,9 +7,7 @@ public class NhanVienPartTime extends NhanVien{
         this.ten = ten;
         this.giolamviec = Giolamviec;
     }
-
     @Override
-
     public String loaiNhanVien(){
         return "Nhan vien thoi vu";
     }
