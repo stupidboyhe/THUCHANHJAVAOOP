@@ -16,7 +16,7 @@ public class ToaDo {
         return y;
     }
 
-    public void setX(int y){
+    public void setY(int y){
         this.y = y;
     }
 }
