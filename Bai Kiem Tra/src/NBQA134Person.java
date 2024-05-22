@@ -17,7 +17,7 @@ public class NBQA134Person {
 
     public void xuatThongTin(){
         System.out.println("Ho ten: " + HoTen);
-        System.out.println("Dia Chi: " + Cao);
+        System.out.println("Chieu cao: " + Cao);
         System.out.println("Tuoi: " + Tuoi);
     }
 }
